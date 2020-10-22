@@ -16,14 +16,13 @@
   <div class="shell">
     <!-- Header -->
     <div id="header">
-      <h1 id="logo"><a href="#">Urgan Gear</a></h1>
+      <h1 id="logo"><a href="#">Siansahan64</a></h1>
       <div id="navigation">
         <ul>
           <li><a href="#">Home</a></li>
-          <li><a href="#">Support</a></li>
-          <li><a href="/about">My Account</a></li>
-          <li><a href="#">The Store</a></li>
-          <li class="last"><a href="#">Contact</a></li>
+          <li><a href="/product">Product</a></li>
+          <li><a href="/about">About</a></li>
+          <li class="last"><a href="/login">Login</a></li>
         </ul>
       </div>
     </div>
@@ -44,7 +43,7 @@
     </div>
     <!-- End Slider -->
   </div>
-</div>
+</div><br>
 <!-- Top -->
 <!-- Main -->
 <div id="main">
@@ -341,7 +340,7 @@
         <!-- Footer -->
         <div id="footer">
           <div class="left"> <a href="#">Home</a> <span>|</span> <a href="#">Support</a> <span>|</span> <a href="#">My Account</a> <span>|</span> <a href="#">The Store</a> <span>|</span> <a href="#">Contact</a> </div>
-          <div class="right"> &copy; Sitename.com. Design by <a href="http://chocotemplates.com">ChocoTemplates.com</a> </div>
+          <div class="right"> &copy; Siansahan64. Design by <a href="#">Siansahan64</a> </div>
         </div>
         <!-- End Footer -->
       </div>
