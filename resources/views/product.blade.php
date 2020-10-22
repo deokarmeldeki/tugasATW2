@@ -4,6 +4,6 @@
 	<title>product</title>
 </head>
 <body>
-	<h2>Product</h2>
+	<h2>product</h2>
 </body>
 </html>

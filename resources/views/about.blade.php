@@ -24,7 +24,7 @@ body{
             position: fixed;
             width: 100vw;
             height: 100vh;
-            background-image: url("css/images/bcgr.jpg");
+            background-image: url("css/images/bcgr2.jpg");
             background-position: center center;
             background-repeat: no-repeat;
             background-attachment: fixed;

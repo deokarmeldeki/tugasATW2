@@ -25,6 +25,10 @@ Route::get('/login', function () {
     return view('login');
 });
 
+Route::get('/product', function () {
+    return view('product');
+});
+
 Route::get('/about', function () {
     return view('about');
 });
