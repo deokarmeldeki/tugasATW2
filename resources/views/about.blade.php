@@ -7,8 +7,8 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.0/css/bootstrap.min.css" integrity="sha384-SI27wrMjH3ZZ89r4o+fGIJtnzkAnFs3E4qz9DIYioCQ5l9Rd/7UAa8DHcaL8jkWt" crossorigin="anonymous">
-    <link   rel="stylesheet" href="assets/font-awesome/less/font-awesome.css">
-    <link   rel="stylesheet" href="assets/font-awesome/css/font-awesome.css">
+    <link   rel="stylesheet" href="css/assets/font-awesome/less/font-awesome.css">
+    <link   rel="stylesheet" href="css/assets/font-awesome/css/font-awesome.css">
     <link rel="stylesheet" type="text/css" href="style.css">
 
     <title>about</title>
@@ -78,7 +78,7 @@ body{
                                     <td>Deo Karmel Deki</td>
                                 </tr>
                                 <tr>
-                                    <th><i class="fa fa-home">  Tempat, Tanggal Lahir</i></th>
+                                    <th><i class="fa fa-home"></i>  Tempat, Tanggal Lahir</th>
                                     <td>Batu Bulan, 03 Februari 2000</td>
                                 </tr>
                                 <tr>
