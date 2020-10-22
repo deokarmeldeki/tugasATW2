@@ -40,14 +40,17 @@ body{
 
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto mr-4">
-                  <li class="nav-item active">
+                  <li class="nav-item ">
                     <a class="nav-link" href="/layout">Home <span class="sr-only">(current)</span></a>
                   </li>
-                  <li class="nav-item active">
-                    <a class="nav-link" href="admin.php">Data <span class="sr-only">(current)</span></a>
+                  <li class="nav-item ">
+                    <a class="nav-link" href="/product">Product <span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item active">
-                    <a class="nav-link" href="tentang_kami.html">Tentang Kami <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="/about">About <span class="sr-only">(current)</span></a>
+                  </li>
+                  <li class="nav-item ">
+                    <a class="nav-link" href="/login">Login <span class="sr-only">(current)</span></a>
                   </li>
                 </ul>
                 
@@ -75,7 +78,7 @@ body{
                                     <td>Deo Karmel Deki</td>
                                 </tr>
                                 <tr>
-                                    <th><i class="fa fa-home"></i>  Tempat, Tanggal Lahir</th>
+                                    <th><i class="fa fa-home">  Tempat, Tanggal Lahir</i></th>
                                     <td>Batu Bulan, 03 Februari 2000</td>
                                 </tr>
                                 <tr>
