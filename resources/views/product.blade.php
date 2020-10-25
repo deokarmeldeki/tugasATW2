@@ -18,7 +18,7 @@
 	<script src="js/jquery.slide.js" type="text/javascript"></script>
 	<script src="js/jquery-func.js" type="text/javascript"></script>
 
-    <title>product</title>
+    <title>Siansahan64</title>
   </head>
   <body>
     <style >

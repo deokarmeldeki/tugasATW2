@@ -36,3 +36,18 @@ Route::get('/about', function () {
 Route::get('/admin', function () {
     return view('admin');
 });
+
+Route::get('/register', function () {
+    return view('register');
+});
+
+Route::get('/password', function () {
+    return view('password');
+});
+
+Route::get('/static_navigation', function () {
+    return view('static_navigation');
+});
+Route::get('/sidenav', function () {
+    return view('sidenav');
+});

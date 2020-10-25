@@ -11,7 +11,7 @@
     <link   rel="stylesheet" href="css/assets/font-awesome/css/font-awesome.css">
     <link rel="stylesheet" type="text/css" href="style.css">
 
-    <title>about</title>
+    <title>Siansahan64</title>
   </head>
   <body>
     <style >
