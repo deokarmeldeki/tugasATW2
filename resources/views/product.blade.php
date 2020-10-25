@@ -18,7 +18,7 @@
 	<script src="js/jquery.slide.js" type="text/javascript"></script>
 	<script src="js/jquery-func.js" type="text/javascript"></script>
 
-    <title>about</title>
+    <title>product</title>
   </head>
   <body>
     <style >
@@ -50,10 +50,10 @@ body{
                   <li class="nav-item ">
                     <a class="nav-link" href="/layout">Home <span class="sr-only">(current)</span></a>
                   </li>
-                  <li class="nav-item ">
+                  <li class="nav-item active ">
                     <a class="nav-link" href="/product">Product <span class="sr-only">(current)</span></a>
                   </li>
-                  <li class="nav-item active">
+                  <li class="nav-item ">
                     <a class="nav-link" href="/about">About <span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item ">
