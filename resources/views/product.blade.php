@@ -39,7 +39,6 @@ body{
         }>    </style>
         <nav class="navbar navbar-expand-lg navbar-light bg-info fixed-top">
             <div class="container">
-                <h3><i class="fa fa-home mr-2"></i></h3>
             <a class="navbar-brand font-weight-bold" href="#">Siansahan 64</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
