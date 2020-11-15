@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Wing the Air</title>
+<title>Siansahan64</title>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
 <!--[if lte IE 6]><style type="text/css" media="screen">.tabbed { height:420px; }</style><![endif]-->
@@ -31,12 +31,11 @@
     <div id="slider">
       <div id="slider-holder">
         <ul>
-          <li><a href="#"><img src="css/images/slide1.jpg" alt="" /></a></li>
-          <li><a href="#"><img src="css/images/slide2.jpg" alt="" /></a></li>
-          <li><a href="#"><img src="css/images/slide1.jpg" alt="" /></a></li>
-          <li><a href="#"><img src="css/images/slide2.jpg" alt="" /></a></li>
-          <li><a href="#"><img src="css/images/slide1.jpg" alt="" /></a></li>
-          <li><a href="#"><img src="css/images/slide2.jpg" alt="" /></a></li>
+          <li><a href="#"><img src="css/images/motor1.png" alt="" /></a></li>
+          <li><a href="#"><img src="css/images/motor2.png" alt="" /></a></li>
+          <li><a href="#"><img src="css/images/motor3.png" alt="" /></a></li>
+          <li><a href="#"><img src="css/images/motor2.png" alt="" /></a></li>
+          <li><a href="#"><img src="css/images/motor1.png" alt="" /></a></li>
         </ul>
       </div>
       <div id="slider-nav"> <a href="#" class="prev">Previous</a> <a href="#" class="next">Next</a> </div>
@@ -58,7 +57,6 @@
           <input type="text" class="search-submit" value="GO" />
         </form>
       </div>
-      <span class="left"><a href="#">Advanced Search</a></span>
       <div class="right"> <span class="cart"> <a href="#" class="cart-ico">&nbsp;</a> <strong>$0.00</strong> </span> <span class="left more-links"> <a href="#">Checkout</a> <a href="#">Details</a> </span> </div>
     </div>
     <!-- End Search, etc -->
@@ -67,9 +65,9 @@
       <!-- Tabs -->
       <div class="tabs">
         <ul>
-          <li><a href="#" class="active"><span>Safety Shoes</span></a></li>
-          <li><a href="#"><span>Sport Shoes</span></a></li>
-          <li><a href="#" class="red"><span>More Shoes</span></a></li>
+          <li><a href="#" class="active"><span>Bestseller</span></a></li>
+          <li><a href="#"><span>New Arrival</span></a></li>
+          <li><a href="#" class="red"><span>Second</span></a></li>
         </ul>
       </div>
       <!-- Tabs -->
@@ -82,59 +80,59 @@
               <div class="cl">&nbsp;</div>
               <ul>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image1.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p1.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image2.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p3.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image3.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p6.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image4.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p5.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image4.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p4.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycles</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image3.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p3.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image2.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p1.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image1.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p2.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
               </ul>
@@ -148,59 +146,59 @@
               <div class="cl">&nbsp;</div>
               <ul>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image2.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p1.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image2.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p3.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image2.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p6.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image2.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p5.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image1.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p4.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image1.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p3.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image1.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p1.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image1.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p2.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
               </ul>
@@ -214,115 +212,59 @@
               <div class="cl">&nbsp;</div>
               <ul>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image3.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p1.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image3.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p3.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image3.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p6.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image3.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p5.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image4.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p4.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image4.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p3.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image4.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p1.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
                 <li>
-                  <div class="image"> <a href="#"><img src="css/images/image4.jpg" alt="" /></a> </div>
+                  <div class="image"> <a href="#"><img src="css/images/p2.png" alt="" /></a> </div>
                   <p> Item Number: <span>125515</span><br />
                     Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
-                  <p class="price">Wholesale Price: <strong>53 USD</strong></p>
-                </li>
-                <li>
-                  <div class="image"> <a href="#"><img src="css/images/image2.jpg" alt="" /></a> </div>
-                  <p> Item Number: <span>125515</span><br />
-                    Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
-                  <p class="price">Wholesale Price: <strong>53 USD</strong></p>
-                </li>
-                <li>
-                  <div class="image"> <a href="#"><img src="css/images/image2.jpg" alt="" /></a> </div>
-                  <p> Item Number: <span>125515</span><br />
-                    Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
-                  <p class="price">Wholesale Price: <strong>53 USD</strong></p>
-                </li>
-                <li>
-                  <div class="image"> <a href="#"><img src="css/images/image2.jpg" alt="" /></a> </div>
-                  <p> Item Number: <span>125515</span><br />
-                    Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
-                  <p class="price">Wholesale Price: <strong>53 USD</strong></p>
-                </li>
-                <li>
-                  <div class="image"> <a href="#"><img src="css/images/image2.jpg" alt="" /></a> </div>
-                  <p> Item Number: <span>125515</span><br />
-                    Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
-                  <p class="price">Wholesale Price: <strong>53 USD</strong></p>
-                </li>
-                <li>
-                  <div class="image"> <a href="#"><img src="css/images/image1.jpg" alt="" /></a> </div>
-                  <p> Item Number: <span>125515</span><br />
-                    Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
-                  <p class="price">Wholesale Price: <strong>53 USD</strong></p>
-                </li>
-                <li>
-                  <div class="image"> <a href="#"><img src="css/images/image1.jpg" alt="" /></a> </div>
-                  <p> Item Number: <span>125515</span><br />
-                    Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
-                  <p class="price">Wholesale Price: <strong>53 USD</strong></p>
-                </li>
-                <li>
-                  <div class="image"> <a href="#"><img src="css/images/image1.jpg" alt="" /></a> </div>
-                  <p> Item Number: <span>125515</span><br />
-                    Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
-                  <p class="price">Wholesale Price: <strong>53 USD</strong></p>
-                </li>
-                <li>
-                  <div class="image"> <a href="#"><img src="css/images/image1.jpg" alt="" /></a> </div>
-                  <p> Item Number: <span>125515</span><br />
-                    Size List : <span>8/8.5/9.5/10/11</span><br />
-                    Brand Name: <a href="#">Adidas Shoes</a> </p>
+                    Brand Name: <a href="#">Yamaha Motorcycle</a> </p>
                   <p class="price">Wholesale Price: <strong>53 USD</strong></p>
                 </li>
               </ul>
@@ -334,7 +276,7 @@
         <!-- Brands -->
         <div class="brands">
           <h3>Brands</h3>
-          <div class="logos"> <a href="#"><img src="css/images/logo1.gif" alt="" /></a> <a href="#"><img src="css/images/logo2.gif" alt="" /></a> <a href="#"><img src="css/images/logo3.gif" alt="" /></a> <a href="#"><img src="css/images/logo4.gif" alt="" /></a> <a href="#"><img src="css/images/logo5.gif" alt="" /></a> </div>
+          <div class="logos"> <a href="#"><img src="css/images/honda.png" alt="" /></a> <a href="#"><img src="css/images/yamaha.png" alt="" /></a> <a href="#"><img src="css/images/ducati.png" alt="" /></a> <a href="#"><img src="css/images/suzuki.png" alt="" /></a> <a href="#"><img src="css/images/vesva.png" alt="" /></a> </div>
         </div>
         <!-- End Brands -->
         <!-- Footer -->

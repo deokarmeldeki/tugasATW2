@@ -32,7 +32,6 @@ body{
         }>    </style>
         <nav class="navbar navbar-expand-lg navbar-light bg-info fixed-top">
             <div class="container">
-                <h3><i class="fa fa-home mr-2"></i></h3>
             <a class="navbar-brand font-weight-bold" href="#">Siansahan 64</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -62,7 +61,7 @@ body{
             <div class="col-md-12">
                 <div class="row">
                     <div class="col-md-6 mr-5">
-                        <img style="width:1140px;height:450px;" st="" src="css/images/s64.png" alt="">
+                        <img style="width:1140px; height:450px; border-radius: 10px;" st="" src="css/images/s64.png" alt="">
                     </div>
                     <div class="col-md-8 text-white">
                         <h1>Deo Karmel Deki</h1>

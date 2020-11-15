@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controller\HomeController;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,37 +18,34 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/layout', function () {
-    return view('layout');
-});
-
-Route::get('/login', function () {
-    return view('login');
-});
-
-Route::get('/product', function () {
-    return view('product');
-});
-
-Route::get('/about', function () {
-    return view('about');
-});
-
 Route::get('/admin', function () {
     return view('admin');
-});
-
-Route::get('/register', function () {
-    return view('register');
 });
 
 Route::get('/password', function () {
     return view('password');
 });
 
+Route::get('/register', function () {
+    return view('register');
+});
+
+Route::get('/sidenav', function () {
+    return view('sidenav');
+});
+
 Route::get('/static_navigation', function () {
     return view('static_navigation');
 });
-Route::get('/sidenav', function () {
-    return view('sidenav');
+
+Route::get('/index', function () {
+    return view('index');
+});
+
+Route::get('/create', function () {
+    return view('create');
+});
+
+Route::post('/static_navigation', function () {
+    return view('store');
 });

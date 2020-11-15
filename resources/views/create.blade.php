@@ -10,9 +10,9 @@
         <link href="css/admin.css" rel="stylesheet" />
         <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js" crossorigin="anonymous"></script>
     </head>
-    <body class="sb-nav-fixed">
+    <body>
         <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
-            <a class="navbar-brand" href="/admin">Siansahan64</a>
+            <a class="navbar-brand" href="index.html">Siansahan64</a>
             <button class="btn btn-link btn-sm order-1 order-lg-0" id="sidebarToggle" href="#"><i class="fas fa-bars"></i></button>
             <!-- Navbar Search-->
             <form class="d-none d-md-inline-block form-inline ml-auto mr-0 mr-md-3 my-2 my-md-0">
@@ -70,9 +70,51 @@
             <div id="layoutSidenav_content">
                 <main>
                     <div class="container-fluid">
-                        <h1 class="mt-4">Kategori</h1>
                         <ol class="breadcrumb mb-4">
-                            <li class="breadcrumb-item active">Kategori</li>
+                            <div class="container">
+            <div class="row">
+                <div class="col-md-12 mt-5">
+                    <div class="card">
+                        <div class="card-header">
+                            Tambah Data Produk
+                        </div>
+                        <div class="card-body">
+                            <form action="{{url('produk')}}" method="post">
+                            <div class="form-group">
+                                <label for="" class="control-label">Nama</label>
+                                <input type="text" class="form-control" name="nama">
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label for="" class="control-label">Harga</label>
+                                        <input type="text" class="form-control" name="harga">
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="" class="control-label">Berat</label>
+                                            <input type="text" class="form-control" name="berat">
+                                        </div>
+                                </div>
+                                <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="" class="control-label">Stok</label>
+                                            <input type="text" class="form-control" name="stok">
+                                        </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="" class="control-label">Deskripsi</label>
+                                <textarea name="deskripsi" class="form-control"></textarea>
+                            </div>
+                            <button class="btn btn-dark float-right"><i class="fas fa-save"></i> Simpan</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
                         </ol>
                         <div class="row">
                             
