@@ -46,6 +46,10 @@ Route::get('/create', function () {
     return view('create');
 });
 
+Route::get('/edit', function () {
+    return view('edit');
+});
+
 Route::post('/static_navigation', function () {
     return view('store');
 });

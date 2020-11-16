@@ -70,48 +70,47 @@
             <div id="layoutSidenav_content">
                 <main>
                     <div class="container-fluid">
-                        <h1 class="mt-4">Produk</h1>
                         <ol class="breadcrumb mb-4">
                             <div class="container">
             <div class="row">
                 <div class="col-md-12 mt-5">
                     <div class="card">
                         <div class="card-header">
-                            Data Produk
-                            <a href="/create" class="btn btn-dark float-right"><i class="fas fa-plus"></i> Tambah Data</a>
+                            Edit Data Produk
                         </div>
                         <div class="card-body">
-                            <table class="table">
-                                <thead>
-                                    <th>No</th>
-                                    <th>Nama</th>
-                                    <th>Harga</th>
-                                    <th>Berat</th>
-                                    <th>Stok</th>
-                                    <th>Deskripsi</th>
-                                    <th>Aksi</th>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>1</td>
-                                        <td>Yamaha MX-250cc</td>
-                                        <td>Rp. 26.000.000</td>
-                                        <td>80kg</td>
-                                        <td>12 unit</td>
-                                        <td>Sepedamotor bertenaga 250cc</td>
-                                        <td width="20px">
-                                            <a href="" class="btn btn-dark"><i class="fas fa-info"></i></a>
-                                            
-                                        </td>
-                                        <td width="20px">
-                                            <a href="/edit" class="btn btn-warning"><i class="fas fa-edit"></i></a>
-                                        </td>
-                                        <td width="20px">
-                                            <a href="" class="btn btn-danger"><i class="fas fa-trash"></i></a>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
+                            <form action="{{url('produk')}}" method="post">
+                                @csrf
+                            <div class="form-group">
+                                <label for="" class="control-label">Nama</label>
+                                <input type="text" class="form-control" name="nama">
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label for="" class="control-label">Harga</label>
+                                        <input type="text" class="form-control" name="harga">
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="" class="control-label">Berat</label>
+                                            <input type="text" class="form-control" name="berat">
+                                        </div>
+                                </div>
+                                <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="" class="control-label">Stok</label>
+                                            <input type="text" class="form-control" name="stok">
+                                        </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="" class="control-label">Deskripsi</label>
+                                <textarea name="deskripsi" class="form-control"></textarea>
+                            </div>
+                            <button class="btn btn-warning float-right"><i class="fas fa-save"></i> Edit</button>
+                            </form>
                         </div>
                     </div>
                 </div>
